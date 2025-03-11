@@ -20,8 +20,8 @@ if (import.meta.env.PROD && import.meta.env.VITE_SENTRY_DSN) {
                 blockAllMedia: false,
             }),
         ],
-        replaysSessionSampleRate: 1.0,
-        replaysOnErrorSampleRate: 1.0,
+        replaysSessionSampleRate: 0,
+        replaysOnErrorSampleRate: 0.1,
         release: import.meta.env.VITE_APP_VERSION,
         dist: import.meta.env.VITE_COMMIT_SHA,
     });
