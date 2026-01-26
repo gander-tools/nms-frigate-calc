@@ -40,6 +40,6 @@
     "vite": "5.4.21",
     "vite-plugin-html-config": "^2.0.2",
     "vite-plugin-pwa": "^0.21.0",
-    "vue-tsc": "^2.1.10"
+    "vue-tsc": "^3.0.0"
   }
 }
