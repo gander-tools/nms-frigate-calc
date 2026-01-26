@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@dotenvx/dotenvx": "^1.25.1",
-    "@sentry/vue": "^8.40.0",
+    "@sentry/vue": "^10.0.0",
     "bootstrap": "^5.3.3",
     "caniuse-lite": "^1.0.30001684",
     "highlight.run": "^9.7.1",
