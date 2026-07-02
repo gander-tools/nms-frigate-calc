@@ -24,7 +24,7 @@
     "@sentry/vue": "^10.0.0",
     "bootstrap": "^5.3.3",
     "caniuse-lite": "^1.0.30001684",
-    "highlight.run": "^9.7.1",
+    "highlight.run": "^10.0.0",
     "vue": "^3.5.13"
   },
   "devDependencies": {
