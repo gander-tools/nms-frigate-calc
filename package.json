@@ -20,7 +20,7 @@
     }
   },
   "dependencies": {
-    "@dotenvx/dotenvx": "^1.25.1",
+    "@dotenvx/dotenvx": "^2.0.0",
     "@sentry/vue": "^10.0.0",
     "bootstrap": "^5.3.3",
     "caniuse-lite": "^1.0.30001684",
