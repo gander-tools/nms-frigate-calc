@@ -7,7 +7,7 @@ on:
     workflow_dispatch: ~
 jobs:
     release:
-        runs-on: ubuntu-latest
+        runs-on: ubuntu-24.04
         environment: 3.x
         steps:
             - name: Execute Deploy Hook
