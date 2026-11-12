@@ -37,7 +37,7 @@
     "release-it": "21.1.2",
     "sass": "1.108.1",
     "typescript": "6.0.3",
-    "vite": "8.3.6",
+    "vite": "8.3.7",
     "vite-plugin-html-config": "2.0.2",
     "vite-plugin-pwa": "2.0.0",
     "vue-tsc": "3.3.14"
